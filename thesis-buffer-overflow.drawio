@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2024-05-24T15:24:25.245Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="YFBzX7GW2DHLqT-7xf_J" version="24.4.8" type="github">
+  <diagram name="Page-1" id="LVT90vHm0JJWAxsJE0rj">
+    <mxGraphModel dx="806" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-2" value="&lt;div&gt;pinon pohja&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-4" value="funktion kehys" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-5" value="suojasivu" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-6" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-7" value="funktion kehys" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-8" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="80G2e8Cwg0Ca3wnNF1Ca-8" target="80G2e8Cwg0Ca3wnNF1Ca-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="390" as="sourcePoint" />
+            <mxPoint x="330" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="80G2e8Cwg0Ca3wnNF1Ca-4" target="80G2e8Cwg0Ca3wnNF1Ca-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="300" as="sourcePoint" />
+            <mxPoint x="260" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-11" value="&lt;div&gt;&amp;nbsp;paluuosoite&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-12" value="&lt;div&gt;puskuri&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="309.43" as="sourcePoint" />
+            <mxPoint x="385" y="309.43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-14" value="ylivuoto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-15" value="&lt;div&gt;paluuosoite&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-16" value="Kehys 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80G2e8Cwg0Ca3wnNF1Ca-17" value="&lt;div&gt;Kehys 2&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
